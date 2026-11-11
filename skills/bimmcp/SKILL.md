@@ -1,11 +1,11 @@
 ---
-name: bimcmp
+name: bimmcp
 description: Plan and create dimension-led BIM models in Revit from architectural and engineering drawings using the Revit MCP, coordinating levels, grids, structure, envelope, openings, interiors, and services.
 metadata:
   short-description: Plan and model from coordinated drawings
 ---
 
-# BIMCMP: drawing-led BIM planning and modeling
+# BIMMCP: drawing-led BIM planning and modeling
 
 Use this skill when modeling or correcting a Revit building from PDFs, CAD, schedules, specifications, or linked references. Treat the drawing set as coordinated evidence, make a short checkable model plan before edits, and execute only the requested BIM categories through the Revit MCP.
 
