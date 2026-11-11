@@ -1,4 +1,4 @@
 interface:
-  display_name: "BIMCMP"
+  display_name: "BIMMCP"
   short_description: "Plan and model coordinated BIM from drawings"
   default_prompt: "Use $bimcmp to plan and model the requested Revit categories from these drawings."

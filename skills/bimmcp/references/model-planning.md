@@ -1,4 +1,4 @@
-# BIMCMP model planning
+# BIMMCP model planning
 
 Use this planning method before multi-category Revit work. It adapts the useful structure of implementation planning to physical model work: name the evidence and dependencies, make each phase small and verifiable, and close the loop against the source drawings. The result may be a concise in-chat plan or a task-specific Markdown note when the user requests a saved artifact.
 
